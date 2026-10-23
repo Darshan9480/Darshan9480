@@ -22,7 +22,7 @@ I'm passionate about Python, Artificial Intelligence, Machine Learning, and Web 
 
 ## 🤝 Connect with Me
 - GitHub: [@Darshan9480](https://github.com/Darshan9480)
-- LinkedIn: Add your LinkedIn profile URL here.
+- LinkedIn:[@Darshan R](www.linkedin.com/in/darshan-python)
 
 ---
 ⭐ Thanks for visiting my profile!
